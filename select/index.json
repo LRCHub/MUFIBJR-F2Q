@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "メロス",
+  "base_artist": "WEDNESDAY CAMPANELLA",
+  "createdAt": "2026-01-04T07:38:49.069340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Melos [メロス]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/01_Melos_[メロス]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メロス",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/02_メロス_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メロス",
+      "artist": "Suiyoubi no Campanella",
+      "has_synced": true,
+      "path": "select/03_メロス_Suiyoubi_no_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メロス",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/04_メロス_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロス",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_メロス_水曜日のカンパネラ.txt"
+    }
+  ]
+}
